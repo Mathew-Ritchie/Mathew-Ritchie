@@ -1,4 +1,12 @@
-## Hi there 👋
+## Nice to meet you 😁 I am Mathew
+
+I am new to the Web Development world, and I am so excited to be here. 
+
+I am looking to learn new skills that will hopefuly get me on a new and exciting career path in the world of Web Development. 
+
+I love being creative and an opportunity to solve a problem.
+
+I am looking to make new freinds and contact in the industry, so please get in touch! 😊
 
 <!--
 **Mathew-Ritchie/Mathew-Ritchie** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
