@@ -4,7 +4,7 @@
 
 I am new to the Web Development world, and I am so excited to be here. 
 
-I am looking to learn new skills that will hopefuly get me on a new and exciting career path in the world of Web Development. 
+I am looking to learn new skills that will hopefuly get me on a new and exciting career path in the world of Web Development. I am currently at Code Space Academy working on HTML and CSS, and soon will be diving into Javescript! 
 
 I love being creative and an opportunity to solve a problem.
 
