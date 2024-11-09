@@ -1,4 +1,7 @@
-## Nice to meet you 😁 I am Mathew
+## Nice to meet you <picture>
+  <source srcset="https://fonts.gstatic.com/s/e/notoemoji/latest/1f604/512.webp" type="image/webp">
+  <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f604/512.gif" alt="😄" width="32" height="32">
+</picture> I am Mathew
 
 I am new to the Web Development world, and I am so excited to be here. 
 
