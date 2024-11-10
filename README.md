@@ -15,7 +15,6 @@ I am looking to make new freinds and contact in the industry, so please get in t
     <img src="https://i.sstatic.net/gVE0j.png" alt="linkedin"> LinkedIn
   </a> &nbsp; 
 
-<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExaXdub3FtNHcwdHM2cHVteDRyaDk4ejA3bXR3c3l4aTUzNjJnNmV0bCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/JIX9t2j0ZTN9S/giphy.gif" width="300px" alt="gif of cat typeing on a laptop computer"/>
 
 <!--
 **Mathew-Ritchie/Mathew-Ritchie** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
