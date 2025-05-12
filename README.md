@@ -12,7 +12,9 @@ I am looking to make new freinds and contacts in the industry, so please get in 
  <a href="https://www.linkedin.com/in/mathew-ritchie-802a9114b" rel="nofollow noreferrer">
     <img src="https://i.sstatic.net/gVE0j.png" alt="linkedin"> LinkedIn
   </a> &nbsp; 
-
+ <a href="https://mathewritchie.netlify.app/" rel="nofollow noreferrer">
+    <img src="https://i.sstatic.net/gVE0j.png" alt="linkedin"> LinkedIn
+  </a> &nbsp; 
 
 <!--
 **Mathew-Ritchie/Mathew-Ritchie** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
