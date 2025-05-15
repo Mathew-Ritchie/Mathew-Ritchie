@@ -1,4 +1,4 @@
-## Nice to meet you, I am Mathew! 
+## Hi, I'm Mathew, it's nice to meet you! 
 
 I am new to the Web Development world, and I am so excited to be here. 
 
