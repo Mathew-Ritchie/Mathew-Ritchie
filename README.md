@@ -13,8 +13,7 @@ I am looking to make new freinds and contacts in the industry, so please get in 
     <img src="https://i.sstatic.net/gVE0j.png" alt="linkedin"> LinkedIn
   </a> &nbsp; 
  <a href="https://mathewritchie.netlify.app/" rel="nofollow noreferrer">
-    ![favicon-16x16](https://github.com/user-attachments/assets/1b686a8e-a1c9-4b1d-8eb6-9ffceb08a296)
- My Portfolio site
+ 𝓜 My Portfolio site
   </a> &nbsp; 
 
 <!--
