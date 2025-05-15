@@ -9,6 +9,14 @@ I love being creative and an opportunity to solve a problem.
 
 I am looking to make new freinds and contacts in the industry, so please get in touch! 😊
 
+<br>
+ <a href="https://www.linkedin.com/in/mathew-ritchie-802a9114b" rel="nofollow noreferrer">
+    <img src="https://i.sstatic.net/gVE0j.png" alt="linkedin"> LinkedIn
+  </a> &nbsp; 
+ <a href="https://mathewritchie.netlify.app/" rel="nofollow noreferrer">
+ 𝓜 My Portfolio site
+  </a> &nbsp; 
+
 ## Technologies I use
 
 <div align="center">
@@ -25,13 +33,7 @@ I am looking to make new freinds and contacts in the industry, so please get in 
 	<code><img width="60" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/vite.png" alt="Vite" title="Vite"/></code>
 </div>
 
-<br>
- <a href="https://www.linkedin.com/in/mathew-ritchie-802a9114b" rel="nofollow noreferrer">
-    <img src="https://i.sstatic.net/gVE0j.png" alt="linkedin"> LinkedIn
-  </a> &nbsp; 
- <a href="https://mathewritchie.netlify.app/" rel="nofollow noreferrer">
- 𝓜 My Portfolio site
-  </a> &nbsp; 
+
 
 <!--
 **Mathew-Ritchie/Mathew-Ritchie** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
