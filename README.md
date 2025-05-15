@@ -2,7 +2,7 @@
 
 I am new to the Web Development world, and I am so excited to be here. 
 
-I am looking to learn new skills that will hopefuly get me on a new and exciting career path in the world of Web Development. I have just completed with distinction the Web Developemnt course at Code Space Academy Where I learnt to use HTML, CSS, JavaScript and React.  
+I am looking to learn new skills that will hopefuly get me on a new and exciting career path in the world of Web Development. I have just completed with distinction the Web Developemnt course at Code Space Academy Where I learnt to use HTML, CSS, JavaScript, React, and many other technologies to produce dynamic and responsive web applications.  
 
 
 I love being creative and an opportunity to solve a problem.
